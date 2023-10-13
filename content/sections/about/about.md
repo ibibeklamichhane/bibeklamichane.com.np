@@ -1,14 +1,25 @@
 ---
-imageSrc: "../../images/charles-deluvio-DgoyKNgPiFQ-unsplash.jpg"
+imageSrc: "../../images/Bibeklc.jpg"
 imageAlt: "About Gatsby Theme Portfolio Minimal"
 ---
+Lalitpur District,Nepal
+```
+Email       viveklc99@gmail.com
+LinkedIn    https://linkedin.com/in/bibeklamichhane/
+Mobile      +977-9866042072
+```
+---
+## Summary
 
-Portfolio Minimal is a Gatsby Theme that creates outstanding one-pages portfolio within minutes!
+I am a Bibek Lamichhane having a proficiency and great enthusiasm in building and deploying web applications using varying tech stacks.My expertise lies in the frontend -React.js along with Backend-Django and Node.js . I like learning.Along this I love to teach others what i learn that;s the reason I love to write some blog in free time.
 
-It has predefined sections for your bio, skills, projects, and contact details. If you are a writer on Medium, you can integrate your latest articles in a distinct section as well. While building the theme, I tried to keep the setup as simple as possible while keeping everything configurable if you like to.
+---
+## Education
 
-Using theme composition, you can easily customize the CSS theme to your own preferences - e.g. change colors, fonts, etc.
 
-Last but not least, it has some cool features you can opt-in to: Dark Mode, Splash Screen, Cookie Banner, and more to find out :)
 
-Photo by <a href="https://unsplash.com/@charlesdeluvio?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText" target="_blank" rel="nofollow noopener noreferrer" aria-label="External Link"><u>Charles Deluvio</u></a> on Unsplash
+
+**Computer Engineering**\
+**Paschimanchal Campus**  - (2018-2023)
+
+<a href="../content/images/Viveklc.png" target="_blank" rel="nofollow noopener noreferrer" aria-label=""><u></u></a> 
