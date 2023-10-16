@@ -1,74 +1,94 @@
 ---
-title: "This is an exemplary article for the blog."
-description: "This description will be used for the article listing and search results on Google."
-date: "2021-05-28"
+title: "How to use TailwindCSS with Reactjs."
+description: "Use Tailwind CSS with React."
+date: "2023-10-16"
 banner:
   src: "../../images/kelly-sikkema-Hl3LUdyKRic-unsplash.jpg"
   alt: "First Markdown Post"
   caption: 'Photo by <u><a href="https://unsplash.com/@lautaroandreani?utm_source=medium&utm_medium=referral">Florian Olivo</a></u>'
 categories:
-  - "Setup"
   - "Tutorial"
 keywords:
-  - "Example"
-  - "Gatsby"
+  - "Tailwind"
+  - "React"
   - "Markdown"
   - "Blog"
 ---
 
-## Code block test
+## Introduction
 
-```css
-.AClass .Subtitle {
-  margin: -0.5rem 0 0 0;
-  font-weight: 700;
-  font-size: 1.25rem;
-  line-height: 1.5rem;
-}
+Tailwind CSS is essentially a utility-first CSS framework designed for quickly creating custom user interfaces. It's a highly customizable, low-level CSS framework that provides you with all the essential building blocks necessary to craft unique designs without the need to struggle with overriding opinionated styles.
 
-.AnotherClass p {
-  font-size: 1.125rem;
-  margin-bottom: 2rem;
-}
+Tailwind represents a modern CSS framework that offers numerous advantages compared to traditional CSS. Its utility-first approach, along with pre-defined classes, streamlines the process of styling HTML components, making it faster, more efficient, and consistently structured.
 
-.AThirdClass {
-  display: flex;
-  justify-content: flex-start;
-  align-items: center;
-}
 
-@media (max-width: 768px) {
-  .AClass {
-    flex-direction: column;
-  }
-  .AnotherClass {
-    display: block;
-  }
-}
+## Install Tailwind CSS with React.js
+
+### 1. Create your project:
+
+To get started with Tailwind CSS in a React project, you can follow these steps:
+
+```bash
+$ npx create-react-app firstapp
+cd my-project
 ```
 
-Inline code: `print()`
+### 2. Install Tailwind CSS:
 
-Lorem ipsum dolor sit amed Vel ut spiritday all cultural Lili Elbe lorem in sexuality Herstory sit lorem Ac Genderless homoflexible trans Carrie Fisher Transgender love family cross-dresser ac a ut Ac xe she ut Tina Anselmi woman Marina Abramovich Lesbians and Gays Support the Miners Ipsum Chimamanda Ngozi sed sit Equal movement gender ut est lorem Laura Jane Grace Emma Watson sem eu.
+After creating your React project, navigate to your project directory and install Tailwind CSS. You can achieve this by running the following commands in your terminal:
 
-**Maria Montessori vel sem in eu Leelah Alcorn** In eu Leelah Alcorn in Margaret Sanger future Martha Nussbaum eu gender non-conformity Family cross-dresser ac a ut representation drag queen Ac third wave Hannah Gadsby culture feminismus ac suffragette cisgender in a eu Ac a ut representation drag queen Out Lorem ac no means no f word sed Emmeline Pankhurst.
+```bash
+$ npm install -D tailwindcss postcss autoprefixer
+$ npx tailwindcss init -p
+```
+### 3. Configure your template paths:
 
-## Second Headline
+To configure your template paths in `tailwind.config.js`, you'll need to specify the paths to your template files. Replace the content in `tailwind.config.js` with the following code:
 
-Est vel est appreciation Nadia Murad Basee Taha cross-dressing vel Ut mi sit ut eu id Samira Wiley sit vel sem Ut romance in gender studies ballroom Sit lorem ac no means no f word sed Emmeline Pankhurst Ac sorellanza In Lea Delaria in grrlpwr pansexual intersectional yas queen diritti id mi Sem Audre Lorde Sappho in sed et empowerment genderqueer intersex.
+```javascript
+/** @type {import('tailwindcss').Config} */
+module.exports = {
+  content: [
+    "./app/**/*.{js,ts,jsx,tsx,mdx}",
+    "./pages/**/*.{js,ts,jsx,tsx,mdx}",
+    "./components/**/*.{js,ts,jsx,tsx,mdx}",
+    // Or if using the `src` directory:
+    "./src/**/*.{js,ts,jsx,tsx,mdx}",
+  ],
+  theme: {
+    extend: {},
+  },
+  plugins: [],
+}
+```
+### 4. Add the Tailwind directives to your CSS:
 
-![This is the alt tag.](../../images/kelly-sikkema-Hl3LUdyKRic-unsplash.jpg "This is a markdown [caption](https://konstantin.digital).")
+To incorporate Tailwind CSS into your project's CSS, you need to add the `@tailwind` directives for each of Tailwind's layers to your `index.css` file. In your React project, navigate to the 'index.css' file and replace its contents with the following:
 
-Feminizmas eu Dian Fossey ac third wave notion supporting androgyny dui ut People a Sylvia Plath mi sex-positivity demisexual a equality suffragettes pronouns Vel est appreciation Nadia Murad Basee Taha cross-dressing vel Sustainability ut sit dui Lesbians and Gays Support the Miners local eu Hanna Gaby Odiele est queer Misty Copeland She ut Tina Anselmi woman Marina Abramovich Lesbians and Gays Support the Miners local Equal ac et ut romance in Second wave sit friendship grl pwr castro.
+```css
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+```
 
-### Third Headline
+### 5. Start your build process:
 
-Vel sem Sed Roxane Gay Caitlin Moran Ace id Amelia Earhart Gloria Steinem Samira Wiley sit Amelia Earhart Gloria Steinem eu In et ac in Alexandria Ocasio-Cortez Emmy Noether a Bi-visibility Dance Simone de Beauvoir eu sem.
+To begin using Tailwind CSS in your React project, initiate the build process by running the following command:
 
-#### Fourth Headline
+```bash
+npm run dev
+```
 
-Alexandria Ocasio-Cortez Emmy Noether a Bi-visibility dui et voices Stonewall Inn sem et Ac pride month lorem et eu dui sit eu ut Eu ut Et in lorem id sed Id Kate Bornstein smash the patriarchy et et eu motivational ut In Chimamanda Ngozi sed sit strength.
+### 6. Start using Tailwind in your project:
 
-![This is the alt tag.](../../images/charles-deluvio-DgoyKNgPiFQ-unsplash.jpg)
+Now that your React project is set up with Tailwind CSS, you can begin using Tailwind's utility classes to style your content. Here's an example of how to use Tailwind classes in a React component:
 
-Vel herstory Bossy sit ac xe she ut Tina Anselmi woman Marina Abramovich Spiritday all cultural Lili Elbe lorem in sexuality Transformation lgbt freedom et ac sem Sem we are everywhere Notion supporting androgyny dui ut dance Simone de Beauvoir eu sem sit Inge Schonöethal Feltrinelli female gaze ac Franca viola.
+```jsx
+export default function Home() {
+  return (
+    <h1 className="text-3xl font-bold underline">
+      Hello world!
+    </h1>
+  )
+}
+```

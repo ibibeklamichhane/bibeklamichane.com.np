@@ -1,15 +1,14 @@
 ---
 title: "Closure Function in Javascript."
 description: "JavaScript Closure: What is it & How do you use it?"
-date: "2021-05-28"
+date: "2023-10-15"
 banner:
   src: "../../images/kelly-sikkema-Hl3LUdyKRic-unsplash.jpg"
   alt: "First Markdown Post"
   caption: 'Photo by <u><a href="https://unsplash.com/@lautaroandreani?utm_source=medium&utm_medium=referral">Florian Olivo</a></u>'
 categories:
-  - "Closure"
-  - "Function"
-  - "Javascript"
+  - "Tutorial"
+ 
 keywords:
   - "Closure"
   - "Javascript"
