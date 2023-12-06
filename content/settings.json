@@ -1,10 +1,10 @@
 {
   "siteMetadata": {
     "language": "en",
-    "siteUrl": "https://gatsby-starter-portfolio-minimal-theme.netlify.app/",
-    "title": "Gatsby Starter for Portfolio Minimal",
-    "titleTemplate": "%s · Portfolio Minimal",
-    "description": "A Gatsby Starter Project to easily get started with Portfolio Minimal theme.",
+    "siteUrl": "https://bibeklamichane.com.np/",
+    "title": "Bibek Lamichhane",
+    "titleTemplate": "%s · Bibek Lamichhane portfolio",
+    "description": "A portfolio website of Bibek Lamichhane created with Gatsby",
     "author": "Bibek Lamichhane",
     "avatar": "../content/images/Viveklc.png",
     "bio": "He is a developer with few months of experience in development.",
