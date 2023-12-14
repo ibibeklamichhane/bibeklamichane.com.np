@@ -7,7 +7,7 @@ banner:
   alt: "First Markdown Post"
   caption: 'Photo by <u><a href="https://unsplash.com/@lautaroandreani?utm_source=medium&utm_medium=referral">Florian Olivo</a></u>'
 categories:
-  - "Tutorial"
+  - "Javascript"
  
 keywords:
   - "Closure"

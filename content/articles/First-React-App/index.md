@@ -8,7 +8,7 @@ banner:
   caption: 'Photo by <u><a href="https://unsplash.com/@lautaroandreani?utm_source=medium&utm_medium=referral">Florian Olivo</a></u>'
 categories:
   
-  - "Tutorial"
+  - "React.js"
 keywords:
   - "Tailwind"
   - "React"
