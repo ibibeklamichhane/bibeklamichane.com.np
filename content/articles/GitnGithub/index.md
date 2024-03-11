@@ -62,13 +62,13 @@ A version control system tracks the history of changes as people and teams colla
 # The GitHub flow
 The GitHub flow has six steps, each with distinct benefits when implemented:
 
-- Create a branch: Topic branches created from the canonical deployment branch (usually master) allow teams to contribute to many parallel efforts. Short-lived topic branches, in particular, keep teams focused and results in quick ships.
+- **Create a branch**: Topic branches created from the canonical deployment branch (usually master) allow teams to contribute to many parallel efforts. Short-lived topic branches, in particular, keep teams focused and results in quick ships.
 
--Add commits :Snapshots of development efforts within a branch create safe, revertible points in the project’s history.
+- **Add commits**:Snapshots of development efforts within a branch create safe, revertible points in the project’s history.
 
--Open a pull request:Pull requests publicize a project’s ongoing efforts and set the tone for a transparent development process.
+- **Open a pull request**:Pull requests publicize a project’s ongoing efforts and set the tone for a transparent development process.
 
---Merge:Upon clicking merge, GitHub automatically performs the equivalent of a local ‘git merge’ operation. GitHub also keeps the entire branch development history on the merged pull request.
+- **Merge**:Upon clicking merge, GitHub automatically performs the equivalent of a local ‘git merge’ operation. GitHub also keeps the entire branch development history on the merged pull request.
 
--Deploy:Teams can choose the best release cycles or incorporate continuous integration tools and operate with the assurance that code on the deployment branch has gone through a robust workflow.
+- **Deploy**:Teams can choose the best release cycles or incorporate continuous integration tools and operate with the assurance that code on the deployment branch has gone through a robust workflow.
 
