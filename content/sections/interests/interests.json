@@ -8,14 +8,14 @@
       }
     },
     {
-      "label": "Javascript",
+      "label": "TypeScript",
       "image": {
         "src": "../../images/notebook.png",
         "alt": ""
       }
     },
     {
-      "label": "React.js",
+      "label": "Next.js",
       "image": {
         "src": "../../images/reactjs.png",
         "alt": ""
