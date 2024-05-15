@@ -16,19 +16,15 @@ I am a Bibek Lamichhane having a proficiency and great enthusiasm in building an
 ---
 ## Experience
 
-**React Developer**\
-ShotCoder Tech  - (2024 - Present)
+**Associate Software Engineer**\
+ShotCoder Tech  - (Sep 2023 - Present)
 
 
 
 ## Education
 
-
-
-
 **Computer Engineering**\
 Paschimanchal Campus(IOE WRC) - (2018-2023)
-
 
 
 <a href="../content/images/Viveklc.png" target="_blank" rel="nofollow noopener noreferrer" aria-label=""><u></u></a> 
