@@ -7,7 +7,7 @@
     "description": "A portfolio website of Bibek Lamichhane created with Gatsby",
     "author": "Bibek Lamichhane",
     "avatar": "../content/images/Viveklc.png",
-    "bio": "He is a developer with few months of experience in development.",
+    "bio": " Hi,I am a developer with some years of experience in development.",
     "social": {
       
       "github": "https://github.com/ibibeklamichhane",
@@ -30,7 +30,7 @@
       "ctaButton": {
         "openNewTab": true,
         "label": "Resume",
-        "url": "/Lamichhane_bibek.pdf"
+        "url": "/Bibek-Lamichhane-resume.pdf"
       },
       "footer": [
         { "label": "Privacy", "url": "/privacy" },
