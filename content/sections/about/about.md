@@ -16,8 +16,8 @@ I am a Bibek Lamichhane having a proficiency and great enthusiasm in building an
 ---
 ## Experience
 
-**Associate Software Engineer**\
-ShotCoder Tech  - (Sep 2023 - Present)
+**Software Engineer**\
+ShotCoder Tech  - Present
 
 
 
