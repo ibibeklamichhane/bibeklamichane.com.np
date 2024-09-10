@@ -53,6 +53,8 @@ A version control system tracks the history of changes as people and teams colla
 
 ```git branch```: shows the branches being worked on locally.
 
+```git stash```:When ever you are working on a certain branch,to implement a feature and then you need to go to another branch and checkout a feature,during this process to ensure the work you have done not be lost ,we need something this is where this command comes handy it temporarily store your changes and you can explore your quick workflow and return back.You can use ```stash apply``` and then boom you are back to where you left
+
 ```git merge```: merges lines of development together. This command is typically used to combine changes made on two distinct branches.When two developers are working in two different features in their respective branches this "git merge "helps to merge the two branches works together in a single main branch.
 
 ```git pull```: Developers use this command if a teammate has made commits to a branch on a remote, and they would like to reflect those changes in their local environment,this reduces the error when we are merging the two banches and reduce the conflicts.
