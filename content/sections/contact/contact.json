@@ -1,10 +1,9 @@
 {
-  "name": "Bibek LAmichhane personal ",
+  "name": "Bibek Lamichhane personal ",
   "email": "viveklc99@gmail.com",
   "description": "Bibek Lamichhane personal portfolio",
   "image": {
-    "src": "../../images/favicon.png",
-    "alt": "Gatsby Logo"
+ 
   },
   "socialProfiles": {
     "from": ["LinkedIn", "Medium", "Github", "Mail"],

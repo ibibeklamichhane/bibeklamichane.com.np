@@ -1,6 +1,6 @@
 ---
 imageSrc: "../../images/Bibeklc.jpg"
-imageAlt: "About Gatsby Theme Portfolio Minimal"
+imageAlt: "Bibek Lamichhane"
 ---
 Lalitpur District,Nepal
 ```
