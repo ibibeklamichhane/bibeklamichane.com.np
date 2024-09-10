@@ -12,7 +12,7 @@
       
       "github": "https://github.com/ibibeklamichhane",
       "medium": "https://medium.com/@viveklc",
-      "linkedin": "https://www.linkedin.com/in/inbibeklamichhane/",
+      "linkedin": "https://www.linkedin.com/in/bibeklamichhane/",
       
       "mail":"mailto:viveklc99@gmail.com"
      
@@ -30,7 +30,7 @@
       "ctaButton": {
         "openNewTab": true,
         "label": "Resume",
-        "url": "/Bibek-Lamichhane-resume.pdf"
+        "url": "/Resume_Bibek_Lamichhane.pdf"
       },
       "footer": [
         { "label": "Privacy", "url": "/privacy" },
