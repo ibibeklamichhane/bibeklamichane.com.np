@@ -18,7 +18,7 @@
         },
         {
           "type": "external",
-          "url": "https://khairahani.vercel.app//"
+          "url": "https://khairahani.vercel.app/"
         }
       ]
     },
@@ -57,7 +57,11 @@
       "links": [
         {
           "type": "github",
-          "url": "https://github.com/ibibeklamichhane/newsapp"
+          "url": "https://github.com/ibibeklamichhane/Notebookapp"
+        },
+        {
+          "type": "external",
+          "url": "https://notetracker-five.vercel.app/"
         }
       ]
     },
@@ -73,8 +77,12 @@
       },
       "links": [
         {
+          "type": "github",
+          "url": "https://github.com/ibibeklamichhane/newsapp"
+        },
+        {
           "type": "external",
-          "url": "https://notetracker-five.vercel.app/"
+          "url": "https://github.com/ibibeklamichhane/newsapp"
         }
       ]
     },
@@ -90,8 +98,12 @@
       },
       "links": [
         {
+          "type": "external",
+          "url": "https://consultingdemo.netlify.app/"
+        },
+        {
           "type": "github",
-          "url": "https://github.com/ibibeklamichhane/newsapp"
+          "url": "https://github.com/ibibeklamichhane/Consultancytsite"
         }
       ]
     },    {
