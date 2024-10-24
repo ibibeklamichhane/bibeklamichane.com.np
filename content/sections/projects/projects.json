@@ -46,6 +46,27 @@
     },
     {
       "visible": true,
+      "category": "🧰 Movie Streaming App",
+      "title": "Movie Sansaar",
+      "description": "A Movie Streaming App made for streaming movies with the help of TMDB Api.Contains the trending,Upcoming,Latest,Top rated movies as well as series",
+      "tags": ["React.js", "TailwindCSS","TMDB","React Query","Redux"],
+      "image": {
+        "src": "../../images/movie.png",
+        "alt": "Extendable Layout"
+      },
+      "links": [
+        {
+          "type": "github",
+          "url": "https://github.com/ibibeklamichhane/movie-sansaar-React"
+        },
+        {
+          "type": "external",
+          "url": "https://moviesansaar-streamer.vercel.app/movie"
+        }
+      ]
+    },
+    {
+      "visible": true,
       "category": "🧰 Note Tracker",
       "title": "Note Tracker",
       "description": "A MERN Stack App for keeping tracks of notes for user.Individual users have their own Note.Token based Authentication for Users",
