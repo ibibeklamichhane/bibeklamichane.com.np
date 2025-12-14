@@ -1,50 +1,6 @@
 {
   "projects": [ 
-    {
-      "visible": true,
-      "category": "🕹️ Freelance Project",
-      "title": "FNCCI Project",
-      "description": "A full fledged Project created for Federation of khairhani chamber of commerce and industry(FNCCI) created with MERN stack.It consists of website for the organization.\n\n.Features:Admin Section for Registering new users,Renew membership,Income-Expense Record,Staff filteration",
-      "tags": ["React.js", "Node.js","TailwindCSS","MongoDB"],
-      "image": {
-        "src": "../../images/fncci.png",
-        "alt": "Quick Setup",
-        "linkTo": "https://khairahani.vercel.app/"
-      },
-      "links": [
         {
-          "type": "github",
-          "url": "https://khairahani.vercel.app/"
-        },
-        {
-          "type": "external",
-          "url": "https://khairahani.vercel.app/"
-        }
-      ]
-    },
-    {
-      "visible": true,
-      "category": "🕹️ Machine Learning Project",
-      "title": "Baby Cry Reason Prediction",
-      "description": " Baby Cry Prediction is a ML based project created for the predicting the reason why an infant is crying.It has three four Claification ['Hungry', 'Sleepy', 'Pain', 'Uncomfortable']This project is aimed for the infants between 0 yrs-2 yrs.This is the stage where the infants can't express why an infant is crying.The main aim is to assist Young and newly parents find out why their child is crying.",
-      "tags": ["React.js", "Django","Jupyter Notebook","SVM","Pickle"],
-      "image": {
-        "src": "../../images/Baby-cry.jpg",
-        "alt": "Quick Setup",
-        "linkTo": "https://github.com/ibibeklamichhane/babyCryReasonPrediction"
-      },
-      "links": [
-        {
-          "type": "github",
-          "url": "https://github.com/ibibeklamichhane/babyCryReasonPrediction"
-        },
-        {
-          "type": "external",
-          "url": "https://github.com/ibibeklamichhane/babyCryReasonPrediction"
-        }
-      ]
-    },
-    {
       "visible": true,
       "category": "🧰 Movie Streaming App",
       "title": "Movie Sansaar",
@@ -62,48 +18,6 @@
         {
           "type": "external",
           "url": "https://moviesansaar-streamer.vercel.app/movie"
-        }
-      ]
-    },
-    {
-      "visible": true,
-      "category": "🧰 Note Tracker",
-      "title": "Note Tracker",
-      "description": "A MERN Stack App for keeping tracks of notes for user.Individual users have their own Note.Token based Authentication for Users",
-      "tags": ["React.js", "TailwindCSS","MongoDB","Node.js"],
-      "image": {
-        "src": "../../images/Consultancy.png",
-        "alt": "Extendable Layout"
-      },
-      "links": [
-        {
-          "type": "github",
-          "url": "https://github.com/ibibeklamichhane/Notebookapp"
-        },
-        {
-          "type": "external",
-          "url": "https://notetracker-five.vercel.app/"
-        }
-      ]
-    },
-    {
-      "visible": true,
-      "category": "🧰 React NewsApp",
-      "title": "React NewsApp",
-      "description": "React based newsapp with realtime news Update Has a provision of updating news in real time.News are fetched in real time from NewsAPI. Contains a category for different sections like business,health,sports,technology,entertainment and many others",
-      "tags": ["React.js", "Bootstrap"],
-      "image": {
-        "src": "../../images/News.png",
-        "alt": "Extendable Layout"
-      },
-      "links": [
-        {
-          "type": "github",
-          "url": "https://github.com/ibibeklamichhane/newsapp"
-        },
-        {
-          "type": "external",
-          "url": "https://github.com/ibibeklamichhane/newsapp"
         }
       ]
     },

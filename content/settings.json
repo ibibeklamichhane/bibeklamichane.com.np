@@ -9,13 +9,11 @@
     "avatar": "../content/images/Viveklc.png",
     "bio": " Hi,I am a developer with some years of experience in development.",
     "social": {
-      
       "github": "https://github.com/ibibeklamichhane",
       "medium": "https://medium.com/@viveklc",
       "linkedin": "https://www.linkedin.com/in/bibeklamichhane/",
-      
-      "mail":"mailto:viveklc99@gmail.com"
-     
+
+      "mail": "mailto:viveklc99@gmail.com"
     }
   },
   "siteConfiguration": {
@@ -25,12 +23,12 @@
         { "label": "About", "url": "/#about" },
         { "label": "Blog", "url": "/blog" },
         { "label": "Projects", "url": "/#features" },
-        { "label": "Github", "url":  "https://github.com/ibibeklamichhane" }
+        { "label": "Github", "url": "https://github.com/ibibeklamichhane" }
       ],
       "ctaButton": {
         "openNewTab": true,
         "label": "Resume",
-        "url": "/Bibek-Lamichhane-Resume.pdf"
+        "url": "/bibek_lamichhane_resume.pdf"
       },
       "footer": [
         { "label": "Privacy", "url": "/privacy" },
